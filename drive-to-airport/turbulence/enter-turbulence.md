@@ -1,3 +1,3 @@
 THERES TURBULANCE hsfnjcompfjlvsnjmclflhmgkdv
 
-[turbulance](goes-to-plane/turbulance.md)
+[plane crashes](goes-to-plane/turbulance/plane-crashes.md)

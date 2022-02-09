@@ -2,15 +2,10 @@
 
 # plane crash
 
-you wake up.... 
+you wake up....
 
 and start your adventure but soon you will find out that your decisions might make you choose between life or death
 
-
-[waking-up](waking-up/airport-drive/text.txt) 
-
-
-        
 
 Click [here](waking-up/airport-drive/flightontime.md) to begin!
 

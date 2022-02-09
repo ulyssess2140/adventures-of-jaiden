@@ -1,3 +1,3 @@
 after rethinking the whole trip idea and how much money he was about to spend (it wasn't that much) he decided that it was best to stay home and eat some chips while watching squid gaems.
 
-[gets-foodpoisoning](../../waking-up/misses-flight/stays-home-eats-chips/chipsexpired.md)
+[gets-foodpoisoning](../../waking-up/misses-flight/chipsexpired.md)

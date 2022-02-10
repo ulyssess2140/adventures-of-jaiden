@@ -3,4 +3,4 @@ He goes on he plane. (for real)
 
 [Click to fly](turbulence/enter-turbulence.md)
 
-[Buy a Snack](drive-to-airport/missflight.md)
+[Buy a Snack](missflight.md)

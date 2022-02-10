@@ -2,7 +2,7 @@
 
 # plane crash
 
-you wake up.... 
+you wake up....
 
 and start your adventure but soon you will find out that your decisions might make you choose between life or death
 
@@ -10,7 +10,6 @@ and start your adventure but soon you will find out that your decisions might ma
 
 
 
-        
 
 Click [here](waking-up/airport-drive/flightontime.md) to begin!
 

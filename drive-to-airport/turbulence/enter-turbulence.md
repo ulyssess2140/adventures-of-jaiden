@@ -1,5 +1,5 @@
 THERES TURBULANCE hsfnjcompfjlvsnjmclflhmgkdv
 
-[Crash to Continue](plane-crashes-1.md)
+[Crash to Continue](enter-turbulance.md/plane-crashes-1.md)
 
 

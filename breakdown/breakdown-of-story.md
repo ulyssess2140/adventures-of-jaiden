@@ -3,7 +3,8 @@
   Developer Note:
   
     This story is all about a guy named Jaiden who goes through so much adventure about his flight into madness as he crashes
-    into a jungle and has to make a decision that will change the course of the adventure. Although this project was written in a joke format it was a cool project to work on
+    into a jungle and has to make a decision that will change the course of the adventure. Although this project was written 
+    in a joke format it was a cool project to work on and fun to play around with mechanics
     
       Notices:
         (Mentions of "he" is referring to the main character Jaiden)

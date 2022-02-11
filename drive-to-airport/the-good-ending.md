@@ -1,0 +1,3 @@
+After becoming best friends with the monkey, he adapts to the island, defeating every beta enemy that comes his way and doing dangerous quests with his good pal monkey (his name is greg). After so much adventure and so many universes where things went so wrong with him, he was finally able to find the peaceful, good ending that he had so much desired. It wasn't the best nor what he was expecting to happen but after seeing through the multiple universes and understanding what he had gone through, it was safe to say he was at the best place he could possibly be at. Him and greg were at peace. And the 2 live happily ever after.
+
+[end story](../../../)

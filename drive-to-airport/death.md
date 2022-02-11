@@ -1,3 +1,3 @@
-💀💀💀💀💀💀💀💀💀💀💀💀 he died just so you didn't know
+💀💀💀💀💀💀💀💀💀💀💀💀 He died just so you didn't know
 
-[return to start](../../../)
+[Return to start](../../../)

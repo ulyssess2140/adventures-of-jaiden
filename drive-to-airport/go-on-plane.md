@@ -1,4 +1,4 @@
-He goes on he plane. (for real)
+He goes to the airport.
 
 
 [Click to fly](turbulence/enter-turbulence.md)

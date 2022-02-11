@@ -1,3 +1,3 @@
-he DIES :skull:
+He DIES :skull:
 
-[start over](../../../../../)
+[Start over](../../../../../)
